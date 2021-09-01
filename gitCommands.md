@@ -8,3 +8,4 @@ git commit -m "your commit message"
 git push
 git branch = checks how many branches exist in our local
 git checkout branch_name = switches to that branch name
+git branch -D branch_name = deletes particular branch
