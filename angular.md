@@ -24,3 +24,7 @@ intro to Angular, Modules, Type script, Java Script,
   how to check node version ? node -v / node --version
   how to check npm version ? npm -v / npm --v
   live reloading -> auto reloads changes in browser from a logic
+
+  Scaffolding for angular cli 
+  npm install -g @angular/cli
+  ng v (to check cli version)
