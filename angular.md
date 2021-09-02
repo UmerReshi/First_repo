@@ -27,4 +27,28 @@ intro to Angular, Modules, Type script, Java Script,
 
   Scaffolding for angular cli 
   npm install -g @angular/cli
+  https://www.techladder.in/article/angular-cli-cheat-sheet
   ng v (to check cli version)
+  ng generate component <component name>
+  ng g c <component name>
+  ng g d <directive-name>
+  ng g s <service-name>
+  ng g cl <class name>
+  ng g i <interface name>
+  ng g p <pipe name>  (FOr Formatting text e.g date)
+  ng g e <enum name>
+  ng g m <module name>
+  ng g guard <guard name>
+
+
+  Array -> contineous allocation of elements
+  var vegies = ["tomato", "carrot", "Brinjal"]
+tomato =  vegies[0]
+carrot =  vegies[1] 
+Brinjal = vegies[2]
+vegies.length // 3
+
+import & export
+service to share the data between components e.g car engine ignited with key
+class it is a blueprint of structure how your object will look like
+interface = its mentioned inside a class
