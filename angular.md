@@ -31,14 +31,14 @@ intro to Angular, Modules, Type script, Java Script,
   ng v (to check cli version)
   ng generate component <component name>
   ng g c <component name>
-  ng g d <directive-name>
-  ng g s <service-name>
+  ng g d <directive-name>  to run animation icons 
+  ng g s <service-name> shares data between components e.g car engine ignite with key
   ng g cl <class name>
-  ng g i <interface name>
+  ng g i <interface name> e.g contract- its mentioned inside a class
   ng g p <pipe name>  (FOr Formatting text e.g date)
   ng g e <enum name>
   ng g m <module name>
-  ng g guard <guard name>
+  ng g guard <guard name> guard edit e.g can activate/deactive
 
 
   Array -> contineous allocation of elements
